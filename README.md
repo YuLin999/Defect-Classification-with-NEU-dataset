@@ -1,2 +1,2 @@
 # Defect-Classification-with-NEU-dataset
-In this project, different CNNs were implemented for a defect classification dataset from NEU
+In this project, different CNNs were implemented for defect classification using a dataset from NEU
